@@ -1,5 +1,4 @@
-#  Store with Commerce.js and Next.js
- 
+aqva-shop.netlify.app
 
 - Framework - [Next.js](https://nextjs.org)
 - eCommerce - [Chec/Commerce.js](https://commercejs.com)
